@@ -1,9 +1,12 @@
 Develop Environment
 
-Eclipse, MyEclipse
+Eclipse 免费
+MyEclipse : http://www.myeclipseide.com/module-htmlpages-display-pid-4.html 我有注册机！
 
 Database Manage system: MariaDB 5.5.33a
+book: MariaDB crash course
+
 
 File Manage: GitHub, url: https://github.com/heruilong/photo_share
 
-Server: apache-tomcat-7.0.42
+Server: apache-tomcat-7.0.42  
