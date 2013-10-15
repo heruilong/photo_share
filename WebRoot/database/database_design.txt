@@ -1,0 +1,9 @@
+photo
+photo_id int
+user_id int FK
+photo_path varchar(255)
+
+user
+user_id int
+user_name varchar
+user_password varchar
